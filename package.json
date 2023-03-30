@@ -1,0 +1,18 @@
+{
+  "name": "personalwebsite",
+  "homepage": "ethankatte.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0",
+    "gsap": "^3.11.4",
+    "three": "^0.150.1"
+  }
+}
