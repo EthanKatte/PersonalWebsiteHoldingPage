@@ -9,10 +9,10 @@ const scene = new THREE.Scene()
 //Create the geometry
 const geometry = new THREE.SphereGeometry(1, 64, 64)
 
-//Create the material to go on the geometry
+//Create the material to go on the geometry#FFD580"
 const material = new THREE.MeshStandardMaterial(
   {
-    color:"#FFD580",
+    color:"#FF0580",
   }
 )
 
